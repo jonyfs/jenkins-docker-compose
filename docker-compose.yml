@@ -1,0 +1,9 @@
+version: '2'
+services:
+  jenkins: 
+    container_name: jenkins
+    hostname: jenkins
+    image: jenkins
+    ports:
+      - "18080:8080"
+    restart: always
