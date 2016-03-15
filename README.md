@@ -1,4 +1,4 @@
-# Jenkins running as Docking Container
+# Jenkins running as Docker Container
 
 
 ### Docker Installation
